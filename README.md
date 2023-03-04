@@ -1,1 +1,3 @@
-<h2 style="text-align: center;">I am Full Stack Web Developer</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
