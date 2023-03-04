@@ -1,1 +1,1 @@
-<h2 text="center">Full Stack Web Developer</h2>
+<p text="center">Full Stack Web Developer</p>
