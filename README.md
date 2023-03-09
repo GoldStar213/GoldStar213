@@ -29,8 +29,7 @@
 
 <div align="center">
   <p>
-    <code><img height="20" src="https://github.com/HaraDev001/HaraDev001/blob/main/email.jpg"></code> haradev001@gmail.com <br />
-    <code><img height="20" src="https://github.com/HaraDev001/HaraDev001/blob/main/telegram.jpg"></code> https://t.me/HaraDev001 <br />
+    <code><img height="20" src="https://github.com/HaraDev001/HaraDev001/blob/main/email.jpg"></code> seniordev213@gmail.com <br />
     <code><img height="20" src="https://github.com/HaraDev001/HaraDev001/blob/main/skype.jpg"></code> live:.cid.98142753262b2b43
   </p>
 </div>
